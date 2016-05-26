@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[brentnoble]]></title>
+        <description><![CDATA[brentnoble]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 26 May 2016 16:21:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Hooshing: (adj.) </p>]]></description>
+            <link>undefinedhooshing-adj/index.html</link>
+            <guid isPermaLink="false">44f59e6e-1113-421e-846d-5e95cc7d686c</guid>
+            <pubDate>Thu, 26 May 2016 16:21:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
